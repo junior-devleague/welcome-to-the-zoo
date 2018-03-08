@@ -4,7 +4,7 @@ Welcome to the Zoo! Look around and pet our collection of exotic animals.
 
 ## Objective
 
-Use **JavaScript Objects** to represent zoo animals, **Object Methods** to generate text in the console, and **Dot notation** to correctly access object properties.
+Use **JavaScript Objects** to represent zoo animals, **Object Methods** to generate text in the console, and **Dot notation** to correctly access object properties. On click of a button, generate the correct zoo animal name, image, and description in the animal container.
 
 ## Prerequisites
 
